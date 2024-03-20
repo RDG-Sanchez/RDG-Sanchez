@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1>¡Bienvenido! 😊</h1>
 
-<!--
-**RDG-Sanchez/RDG-Sanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>👋 Soy Rafael, un apasionado desarrollador web con experiencia en el mundo del Full Stack. Mi curiosidad innata por la tecnología me llevó a explorar la programación desde temprana edad. A los 15 años, comencé a modificar plantillas web para crear mis propios sitios. Sin embargo, mi ambición no se detuvo ahí; quería no solo modificar, sino también crear.
 
-Here are some ideas to get you started:
+📜 Pasó un largo tiempo, a mis 23 años, mi búsqueda de conocimiento me llevó a Soy Henry, donde pude profundizar mis habilidades y valores. Desde entonces, he estado trabajando en proyectos Full-stack Developer, donde he aplicado mis conocimientos en HTML, CSS, JavaScript, React, ExpressJS, NodeJS, PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Mi objetivo principal es seguir creciendo como profesional y aportar mis habilidades al mundo del desarrollo web. Siempre estoy dispuesto a aprender y enfrentar nuevos desafíos.
+
+🤝 ¡Conectemos en LinkedIn y exploremos nuevas oportunidades juntos!</p>
+
+<h2>Tecnologias</h2>
+
+<li>TailwindCSS</li>
+<li>JavaScript</li>
+<li>PostgreSQL</li>
+<li>Sequelize</li>
+<li>ExpressJS</li>
+<li>NodeJS</li>
+<li>Redux</li>
+<li>React</li>
+<li>HTML</li>
+<li>CSS</li>
+
