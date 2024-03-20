@@ -11,8 +11,8 @@
 <h2>Tecnologias</h2>
 
 <li>TailwindCSS</li>
-<li>JavaScript</li>
 <li>PostgreSQL</li>
+<li>JavaScript</li>
 <li>Sequelize</li>
 <li>ExpressJS</li>
 <li>NodeJS</li>
