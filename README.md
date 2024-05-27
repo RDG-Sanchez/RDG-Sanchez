@@ -1,6 +1,6 @@
-<h1>¡Hi, I'm Rafael! 👋</h1>
+<h1>¡Hola, Soy Rafael! 👋</h1>
 
-<p>👋 ¡Buenas! Soy Rafael, un apasionado desarrollador web con experiencia en el mundo del Full Stack. Mi curiosidad innata por la tecnología me llevó a explorar la programación desde temprana edad. A los 15 años, comencé a modificar plantillas web para crear mis propios sitios. Sin embargo, mi ambición no se detuvo ahí; quería no solo modificar, sino también crear.
+<p>👋 Un apasionado desarrollador web con experiencia en el mundo del Full Stack. Mi curiosidad innata por la tecnología me llevó a explorar la programación desde temprana edad. A los 15 años, comencé a modificar plantillas web para crear mis propios sitios. Sin embargo, mi ambición no se detuvo ahí; quería no solo modificar, sino también crear.
 
 📜 Pasó un largo tiempo, a mis 23 años, mi búsqueda de conocimiento me llevó a Soy Henry, donde pude profundizar mis habilidades y valores. Desde entonces, he estado trabajando en proyectos Full-stack Developer, donde he aplicado mis conocimientos en HTML, CSS, JavaScript, React, ExpressJS, NodeJS, PostgreSQL.
 
