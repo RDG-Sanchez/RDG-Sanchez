@@ -1,14 +1,14 @@
 <h1>¡Hi, I'm Rafael! 👋</h1>
 
-<p>😊 I'm a passionate web developer with experience in the world of Full Stack. My innate curiosity about technology led me to explore programming from an early age. At age 15, I started modifying web templates to create my own sites. However, my ambition did not stop there; I wanted to not only modify, but also create.
+<p>👋 ¡Buenas! Soy Rafael, un apasionado desarrollador web con experiencia en el mundo del Full Stack. Mi curiosidad innata por la tecnología me llevó a explorar la programación desde temprana edad. A los 15 años, comencé a modificar plantillas web para crear mis propios sitios. Sin embargo, mi ambición no se detuvo ahí; quería no solo modificar, sino también crear.
 
-📜 A long time passed, at 23 years old, my search for knowledge led me to Soy Henry, where I was able to deepen my skills and values. Since then, I have been working on Full-stack Developer projects, where I have applied my knowledge in HTML, CSS, JavaScript, React, ExpressJS, NodeJS, Sequelize and others.
+📜 Pasó un largo tiempo, a mis 23 años, mi búsqueda de conocimiento me llevó a Soy Henry, donde pude profundizar mis habilidades y valores. Desde entonces, he estado trabajando en proyectos Full-stack Developer, donde he aplicado mis conocimientos en HTML, CSS, JavaScript, React, ExpressJS, NodeJS, PostgreSQL.
 
-🚀 My main goal is to continue growing as a professional and contribute my skills to the world of web development. I am always willing to learn and face new challenges.
+🚀 Mi objetivo principal es seguir creciendo como profesional y aportar mis habilidades al mundo del desarrollo web. Siempre estoy dispuesto a aprender y enfrentar nuevos desafíos.
 
-🤝 Let's connect on LinkedIn and explore new opportunities together!</p>
+🤝 ¡Conectemos en LinkedIn y exploremos nuevas oportunidades juntos!</p>
 
-<h2>Technologies</h2>
+<h2>Tecnologías</h2>
 
 ``` javascript
 const TECH_STACK = {
@@ -25,4 +25,3 @@ const TECH_STACK = {
 };
 
 ```
-
