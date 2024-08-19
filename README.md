@@ -12,6 +12,7 @@
 const TECH_STACK = {
   tailwindcss: true,
   postgresql: true,
+  typescript: true,
   javascript: true,
   sequelize: true,
   expressjs: true,
